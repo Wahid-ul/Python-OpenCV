@@ -1,0 +1,2 @@
+Add a line for testiing>> text_file_for_testing.txt
+echo Add a line for testiing
